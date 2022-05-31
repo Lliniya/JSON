@@ -29,7 +29,7 @@
      "основы bash скриптинг, автоматизация рутинных задач на сервере"
   ],
 "Базы данных":[
-     "основы SQL":"Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+     "основы SQL:Create, Delete, Drop, Insert Into, Select, From, Where, Join",
      "Postgres (установка, настройка и использование)",
      "Нереляционная база данных Redis (установка, настройка и использование)"
   ],
